@@ -1,14 +1,15 @@
 {
     "MANUFACTURER": "Google",
-    "MODEL": "Pixel 9 Pro",
-    "FINGERPRINT": "google/caiman_beta/caiman:16/BP31.250610.009/13905196:user/release-keys",
+    "MODEL": "Pixel 9",
+    "FINGERPRINT": "google/tokay_beta/tokay:16/BP41.250822.010/14082742:user/release-keys",
     "BRAND": "google",
-    "PRODUCT": "caiman_beta",
-    "DEVICE": "caiman",
-    "VERSION.RELEASE": "16",
-    "ID": "BP31.250610.009",
-    "VERSION.INCREMENTAL": "13905196",
+    "PRODUCT": "tokay_beta",
+    "DEVICE": "tokay",
+    "VERSION.RELEASE": "Baklava",
+    "ID": "BP41.250822.010",
+    "VERSION.INCREMENTAL": "14082742",
     "TYPE": "user",
     "TAGS": "release-keys",
-    "VERSION.DEVICE_INITIAL_SDK_INT": "32"
+    "VERSION.SECURITY_PATCH": "2025-09-05",
+    "VERSION.DEVICE_INITIAL_SDK_INT": "21"
 }
